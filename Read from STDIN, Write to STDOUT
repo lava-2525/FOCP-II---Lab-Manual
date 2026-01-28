@@ -1,0 +1,13 @@
+# Read from STDIN, Write to STDOUT(hackerearth question)
+#include <iostream>
+using namespace std;
+int main() {
+	int num;
+	string s;
+    cin >> num;
+	cin>>s;
+
+	cout << num*2 << endl;
+	cout<< s << endl;
+	return 0;
+	}	
