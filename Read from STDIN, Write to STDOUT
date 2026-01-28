@@ -1,4 +1,4 @@
-# Read from STDIN, Write to STDOUT(hackerearth question)
+// Read from STDIN, Write to STDOUT(hackerearth question)
 #include <iostream>
 using namespace std;
 int main() {
